@@ -8,18 +8,16 @@ I'm a cybersecurity practitioner passionate about securing digital infrastructur
 
 🔧 Tech Stack
 Languages:  Python 🐍, Bash, PowerShell, C, C++
-Security Tools: Microsoft Sentinel, KQL, Suricata, Zeek, Sigma Rules
-Cloud/Infra: Azure ☁️, Proxmox, Docker, GitHub Actions, Linux
-Monitoring/Logging: ELK Stack, Prometheus, Loki, Grafana
-Dev Practices: IaC, CI/CD, Threat Detection-as-Code, Clean Git
+Security Tools: Microsoft Sentinel, KQL, Firewall, XDR, EDR, Wireshark
+Cloud/Infra: Azure ☁️, Proxmox, Docker, GitHub, Linux
+Monitoring/Logging: Prometheus, Grafana
+Dev Practices: Terraform, Ansible
 📌 Highlighted Projects
 
 🔍 Azure Sentinel Automation (SC-200 Lab Project)
 Workflow automation for real-time alerting and incident response using Sentinel, Logic Apps, and custom KQL detections.
 🧠 Tech: Azure Sentinel, Logic Apps, KQL, Microsoft Graph API
 
-📈 GitHub Stats
-Jay's GitHub stats Top Langs
 
 🎯 What's Next?
 🧠 Preparing for OSCP | Learning Offensive Security techniques
