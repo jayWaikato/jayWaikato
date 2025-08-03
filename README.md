@@ -2,7 +2,6 @@
 🎓 Master's Student in Cybersecurity | University of Waikato
 🔐 Former Network Security Engineer | 2.5+ years of hands-on enterprise experience
 📍 Based in Hamilton, New Zealand
-📫 Portfolio | LinkedIn
 
 🧠 About Me
 I'm a cybersecurity practitioner passionate about securing digital infrastructure through automation, observability, and innovation. With a solid foundation in enterprise security and a strong interest in cloud-native and container technologies, I love bridging gaps between infrastructure and security — especially with code.
